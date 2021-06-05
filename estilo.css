@@ -1,0 +1,58 @@
+.center{
+text-align: center;
+
+}
+
+.quien{
+    text-align: center;
+}
+
+.descri{
+float: left;
+
+}
+.sidebar{
+    position: absolute;
+    background-color: coral;
+    width: 10%;
+    height: 100%;
+
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+.des{
+text-align: center;
+
+}
+
+.gri{
+    float: left;
+}
+
+.van{
+    float: right;
+}
+
+.da{
+    text-align: center;
+}
+
+.leo{
+    float: left;
+}
+ .vicen{
+     float: right;
+ }
+ 
+ .volver{
+     text-align:end;
+      ;
+ }
+
+ .ob{
+     text-align: center;
+ }
+
